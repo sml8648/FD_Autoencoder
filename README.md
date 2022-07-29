@@ -64,16 +64,23 @@
 ## 프로젝트 소스 코드 
 
 ```
-FDS_ML/
+FDS_Autoencoder/
+    Data/ => (confidential)
+       train
+         train_data.pkl
+       test
+         test_data.pkl
+         
     __init__.py
-    Data_loader/
+    model/
         __init__.py
-        Data_loader.py
-        Preprocess.py
-        Data_fetch.py
-        MongoConnect.py
+        Autoencoder.py
+    CheckPoint
+        Date_Autoencoder.pt
     train.py
+    trainer.py
     classify.py
+    data_loader.py
 ```
 
 ## 모델 적용 결과
