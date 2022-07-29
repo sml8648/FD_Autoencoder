@@ -94,6 +94,8 @@ FDS_Autoencoder/
 
 ![다운로드 (5)](https://user-images.githubusercontent.com/18714388/181781088-54d5e171-b40e-45db-8e9c-5e78a82511d7.png)
 
+* (작성중)
+
 ## 결론
 
 ## 더 생각해볼점
